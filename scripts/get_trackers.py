@@ -181,13 +181,15 @@ def main() -> None:
     logger.info(f"Saving {args.transform_to} to {args.path}...")
 
     if args.transform_to == "json":
-        data = TransformJson.transform(trackers)
+        output = TransformJson
 
     if args.transform_to == "csv":
-        data = TransformCsv.transform(trackers)
+        output = TransformCsv
 
     if args.transform_to == "dnsmasq":
-        data = TransformDnsmasq.transform(trackers)
+        output = TransformDnsmasq
+
+    data = output.transform(trackers)
 
     with open(args.path, "w", encoding="utf-8") as f:
         f.write(data)
