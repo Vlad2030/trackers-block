@@ -6,7 +6,7 @@ A script to parse and convert tracker data from [Exodus Privacy](https://reports
 
 This tool fetches known trackers from Exodus, parses their associated domains, and exports the data into formats you can use for analysis or DNS-level blocking.
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/trackers-block.git
