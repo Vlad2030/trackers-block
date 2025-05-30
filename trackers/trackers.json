@@ -1,0 +1,1945 @@
+[
+    {
+        "name": "ABTasty",
+        "urls": [
+            "abtasty.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/324/"
+    },
+    {
+        "name": "ACRCloud",
+        "urls": [
+            "acrcloud.com",
+            "hb-minify-juc1ugur1qwqqqo4.stackpathdns.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/325/"
+    },
+    {
+        "name": "ADLIB",
+        "urls": [
+            "adlibr.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/177/"
+    },
+    {
+        "name": "ATInternet",
+        "urls": [
+            "ati-host.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/31/"
+    },
+    {
+        "name": "AccountKit",
+        "urls": [
+            "graph.accountkit.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/91/"
+    },
+    {
+        "name": "Actv8me",
+        "urls": [
+            "actv8technologies.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/327/"
+    },
+    {
+        "name": "Acuant",
+        "urls": [
+            "frm.acuant.net",
+            "medicscan.acuant.net",
+            "services.assureid.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/386/"
+    },
+    {
+        "name": "Ad4Screen",
+        "urls": [
+            "a4.tl",
+            "accengage.com",
+            "ad4push.com",
+            "ad4screen.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/4/"
+    },
+    {
+        "name": "AdAdapted",
+        "urls": [
+            "ads.adadapted.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/272/"
+    },
+    {
+        "name": "AdBuddiz",
+        "urls": [
+            "sdk.adbuddiz.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/216/"
+    },
+    {
+        "name": "AdColony",
+        "urls": [
+            "adc3-launch.adcolony.com",
+            "adcolony.com",
+            "ads30.adcolony.com",
+            "androidads20.adcolony.com",
+            "androidads21.adcolony.com",
+            "androidads23.adcolony.com",
+            "events3alt.adcolony.com",
+            "wd.adcolony.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/90/"
+    },
+    {
+        "name": "AdFit (Daum)",
+        "urls": [
+            "analytics.ad.daum.net",
+            "statistics.videofarm.daum.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/156/"
+    },
+    {
+        "name": "Adbrix",
+        "urls": [
+            "ad-brix.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/256/"
+    },
+    {
+        "name": "Add Apt Tr",
+        "urls": [
+            "aatkit.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/36/"
+    },
+    {
+        "name": "Adform",
+        "urls": [
+            "adform.com",
+            "adformdsp.net",
+            "adx.adform.net",
+            "files.adform.net",
+            "track.adform.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/157/"
+    },
+    {
+        "name": "Adfurikun",
+        "urls": [
+            "adfurikun.jp",
+            "ginf.adfurikun.jp"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/158/"
+    },
+    {
+        "name": "Adincube",
+        "urls": [
+            "sdk.adincube.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/165/"
+    },
+    {
+        "name": "Adjust",
+        "urls": [
+            "adj.st",
+            "adjust.com",
+            "go.link"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/52/"
+    },
+    {
+        "name": "Admixer",
+        "urls": [
+            "admixer.co.kr",
+            "admixer.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/275/"
+    },
+    {
+        "name": "Admost",
+        "urls": [
+            "cdn-api.admost.com",
+            "go.admost.com",
+            "med-api.admost.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/276/"
+    },
+    {
+        "name": "Adot",
+        "urls": [
+            "sdk.adotmob.com",
+            "sync.adotmob.com",
+            "tracker.adotmob.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/161/"
+    },
+    {
+        "name": "AdsWizz",
+        "urls": [
+            "adswizz.com",
+            "cdn.adswizz.com.edgesuite.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/41/"
+    },
+    {
+        "name": "AerServ",
+        "urls": [
+            "ads.aerserv.com",
+            "debug.aerserv.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/196/"
+    },
+    {
+        "name": "Airpush",
+        "urls": [
+            "api.airpush.com",
+            "apidm.airpush.com",
+            "apistaging.airpush.com",
+            "apportal.airpush.com",
+            "appwall.api.airpush.com",
+            "beta.airpush.com",
+            "cdnap.airpush.com",
+            "m.airpush.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/337/"
+    },
+    {
+        "name": "Alooma",
+        "urls": [
+            "inputs.alooma.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/400/"
+    },
+    {
+        "name": "Alphonso",
+        "urls": [
+            "prov.alphonso.tv",
+            "api.alphonso.tv"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/82/"
+    },
+    {
+        "name": "AltBeacon",
+        "urls": [
+            "data.altbeacon.org"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/219/"
+    },
+    {
+        "name": "Altamob",
+        "urls": [
+            "api.altamob.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/269/"
+    },
+    {
+        "name": "Amazon Analytics (Amazon insights)",
+        "urls": [
+            "mobileanalytics.us-east-1.amazonaws.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/95/"
+    },
+    {
+        "name": "Amobee",
+        "urls": [
+            "amobee.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/278/"
+    },
+    {
+        "name": "Amplitude",
+        "urls": [
+            "amplitude.com",
+            "api.amplitude.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/125/"
+    },
+    {
+        "name": "AppLovin (MAX and SparkLabs)",
+        "urls": [
+            "applovin.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/72/"
+    },
+    {
+        "name": "AppMetrica",
+        "urls": [
+            "analytics.mobile.yandex.net",
+            "appmetrica.yandex.com",
+            "banners-slb.mobile.yandex.net",
+            "banners.mobile.yandex.net",
+            "mc.yandex.ru",
+            "report.appmetrica.yandex.net",
+            "startup.mobile.yandex.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/140/"
+    },
+    {
+        "name": "AppNexus",
+        "urls": [
+            "247realmedia.com",
+            "adnxs.com",
+            "appnexus.com",
+            "appnexus.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/15/"
+    },
+    {
+        "name": "Appcelerator Analytics",
+        "urls": [
+            "appcelerator.com",
+            "appcelerator.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/255/"
+    },
+    {
+        "name": "Appdynamics",
+        "urls": [
+            "eum-appdynamics.com",
+            "appdynamics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/194/"
+    },
+    {
+        "name": "Appnext",
+        "urls": [
+            "appnext.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/184/"
+    },
+    {
+        "name": "Appodeal",
+        "urls": [
+            "appodeal.com",
+            "appodealx.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/162/"
+    },
+    {
+        "name": "AppsFlyer",
+        "urls": [
+            "appsflyer.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/12/"
+    },
+    {
+        "name": "Apptimize",
+        "urls": [
+            "brahe.apptimize.com",
+            "md-a-c.apptimize.com",
+            "md-a-s.apptimize.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/135/"
+    },
+    {
+        "name": "Apsalar",
+        "urls": [
+            "e-ssl.apsalar.com",
+            "e.apsalar.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/260/"
+    },
+    {
+        "name": "Apteligent by VMWare (formerly Crittercism)",
+        "urls": [
+            "api.crittercism.com",
+            "appload.ingest.crittercism.com",
+            "txn.ingest.crittercism.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/155/"
+    },
+    {
+        "name": "Areametrics",
+        "urls": [
+            "areametrics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/55/"
+    },
+    {
+        "name": "Audience Studio (Krux)",
+        "urls": [
+            "krxd.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/3/"
+    },
+    {
+        "name": "Auditude",
+        "urls": [
+            "auditude.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/203/"
+    },
+    {
+        "name": "AutoNavi / Amap",
+        "urls": [
+            "grid.amap.com",
+            "tm.amap.com",
+            "abroad.apilocate.amap.com",
+            "apilocate.amap.com",
+            "restapi.amap.com",
+            "yuntuapi.amap.com",
+            "m5.amap.com",
+            "wb.amap.com",
+            "wb.amap.com",
+            "wb.amap.com",
+            "wb.amap.com",
+            "apiinit.amap.com",
+            "restapi.amap.com",
+            "logs.amap.com",
+            "cgicol.amap.com",
+            "lbs.amap.com",
+            "wap.amap.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/361/"
+    },
+    {
+        "name": "Axonix",
+        "urls": [
+            "ads.mobclix.com",
+            "axonix.com",
+            "data.mobclix.com",
+            "mobclix.com",
+            "s.mobclix.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/226/"
+    },
+    {
+        "name": "Backelite",
+        "urls": [
+            "backelite.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/54/"
+    },
+    {
+        "name": "Backtrace",
+        "urls": [
+            "backtrace.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/445/"
+    },
+    {
+        "name": "Baidu Maps",
+        "urls": [
+            "map.baidu.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/75/"
+    },
+    {
+        "name": "Batch",
+        "urls": [
+            "batch.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/23/"
+    },
+    {
+        "name": "BlueKai (acquired by Oracle)",
+        "urls": [
+            "stags.bluekai.com",
+            "tags.bluekai.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/153/"
+    },
+    {
+        "name": "Branch",
+        "urls": [
+            "api.branch.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/167/"
+    },
+    {
+        "name": "Braze (formerly Appboy)",
+        "urls": [
+            "appboy.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/17/"
+    },
+    {
+        "name": "Brightcove",
+        "urls": [
+            "metrics.brightcove.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/178/"
+    },
+    {
+        "name": "Bugly",
+        "urls": [
+            "bugly.qq.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/190/"
+    },
+    {
+        "name": "Carnival",
+        "urls": [
+            "xxx.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/111/"
+    },
+    {
+        "name": "Cauly",
+        "urls": [
+            "ad.cauly.co.kr"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/257/"
+    },
+    {
+        "name": "Cedexis Radar",
+        "urls": [
+            "cedexis-radar.net",
+            "cedexis.com",
+            "radar.cedexis.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/404/"
+    },
+    {
+        "name": "Cheetah Ads",
+        "urls": [
+            "cmcm.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/168/"
+    },
+    {
+        "name": "CleverTap",
+        "urls": [
+            "wzrkt.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/174/"
+    },
+    {
+        "name": "Cloudmobi",
+        "urls": [
+            "api.cloudmobi.net",
+            "cloudmobi.net",
+            "logger.cloudmobi.net",
+            "vast.cloudmobi.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/176/"
+    },
+    {
+        "name": "Colocator",
+        "urls": [
+            "colocator.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/64/"
+    },
+    {
+        "name": "ComScore",
+        "urls": [
+            "comscore.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/56/"
+    },
+    {
+        "name": "Conversant",
+        "urls": [
+            "conversantmedia.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/282/"
+    },
+    {
+        "name": "Conviva",
+        "urls": [
+            "cws.conviva.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/202/"
+    },
+    {
+        "name": "Criteo",
+        "urls": [
+            "criteo.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/170/"
+    },
+    {
+        "name": "CrowdTangle",
+        "urls": [
+            "api.crowdtangle.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/46/"
+    },
+    {
+        "name": "Cuebiq",
+        "urls": [
+            "cuebiq.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/57/"
+    },
+    {
+        "name": "Demdex",
+        "urls": [
+            "demdex.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/40/"
+    },
+    {
+        "name": "Display",
+        "urls": [
+            "display.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/188/"
+    },
+    {
+        "name": "Duapps",
+        "urls": [
+            "duapps.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/191/"
+    },
+    {
+        "name": "Dynamic Yield",
+        "urls": [
+            "adm.dynamicyield.com",
+            "api.dynamicyield.com",
+            "cdn.dynamicyield.com",
+            "px.dynamicyield.com",
+            "st.dynamicyield.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/152/"
+    },
+    {
+        "name": "Emarsys Predict",
+        "urls": [
+            "recommender.scarabresearch.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/264/"
+    },
+    {
+        "name": "Enhance",
+        "urls": [
+            "app-config.enhance.co",
+            "data-location.enhance.co"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/297/"
+    },
+    {
+        "name": "Ensighten",
+        "urls": [
+            "nexus.ensighten.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/151/"
+    },
+    {
+        "name": "Eulerian",
+        "urls": [
+            "eulerian.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/51/"
+    },
+    {
+        "name": "Exponea",
+        "urls": [
+            "api.infinario.com",
+            "sygic-api.infinario.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/350/"
+    },
+    {
+        "name": "Factual",
+        "urls": [
+            "api.factual.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/314/"
+    },
+    {
+        "name": "Fiksu",
+        "urls": [
+            "a.fiksu.com",
+            "sdk.fiksu.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/150/"
+    },
+    {
+        "name": "Flurry",
+        "urls": [
+            "flurry.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/25/"
+    },
+    {
+        "name": "FollowAnalytics",
+        "urls": [
+            "sdk.follow-apps.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/266/"
+    },
+    {
+        "name": "Foresee",
+        "urls": [
+            "4seeresults.com",
+            "analytics.foresee.com",
+            "foresee.com",
+            "foreseeresults.com",
+            "i.4see.mobi",
+            "rec.replay.answerscloud.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/149/"
+    },
+    {
+        "name": "FreeWheel",
+        "urls": [
+            "fwmrm.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/224/"
+    },
+    {
+        "name": "Fyber",
+        "urls": [
+            "adproxy.fyber.com",
+            "appengage-video.fyber.com",
+            "banner.fyber.com",
+            "engine.fyber.com",
+            "interstitial.fyber.com",
+            "mbe-cdn.fyber.com",
+            "offer.fyber.com",
+            "service.fyber.com",
+            "tracker.fyber.com",
+            "video-interstitial-assets-cdn.fyber.com",
+            "video.fyber.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/104/"
+    },
+    {
+        "name": "Fyber SponsorPay",
+        "urls": [
+            "appengage-video.sponsorpay.com",
+            "cdn1.sponsorpay.com",
+            "cdn2.sponsorpay.com",
+            "cdn3.sponsorpay.com",
+            "cdn4.sponsorpay.com",
+            "engine.sponsorpay.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/109/"
+    },
+    {
+        "name": "GIPHY Analytics",
+        "urls": [
+            "api.giphy.com",
+            "pingback.giphy.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/299/"
+    },
+    {
+        "name": "GPShopper",
+        "urls": [
+            "sdk.gpshopper.com",
+            "sypi.gpshopper.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/393/"
+    },
+    {
+        "name": "Gemius HeatMap",
+        "urls": [
+            "gemius.pl"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/227/"
+    },
+    {
+        "name": "Gimbal",
+        "urls": [
+            "analytics-server.gimbal.com",
+            "api.gimbal.com",
+            "registration.gimbal.com",
+            "sdk-info.gimbal.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/201/"
+    },
+    {
+        "name": "Google AdMob",
+        "urls": [
+            "2mdn.net",
+            "dmtry.com",
+            "doubleclick.com",
+            "doubleclick.net",
+            "mng-ads.com",
+            "mobileads.google.com",
+            "ads.google.com",
+            "googlesyndication.com",
+            "googleadservices.com",
+            "googleads.g.doubleclick.net",
+            "adservice.g.cn"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/312/"
+    },
+    {
+        "name": "Google Analytics",
+        "urls": [
+            "google-analytics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/48/"
+    },
+    {
+        "name": "Google CrashLytics",
+        "urls": [
+            "crashlytics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/27/"
+    },
+    {
+        "name": "Google DoubleClick",
+        "urls": [
+            "2mdn.net",
+            "dmtry.com",
+            "doubleclick.com",
+            "doubleclick.net",
+            "mng-ads.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/5/"
+    },
+    {
+        "name": "Google Firebase Analytics",
+        "urls": [
+            "firebase.com",
+            "firebaselogging-pa.googleapis.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/49/"
+    },
+    {
+        "name": "Google Tag Manager",
+        "urls": [
+            "www.googletagmanager.com",
+            "www.googletagservices.com",
+            "www-googletagmanager.l.google.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/105/"
+    },
+    {
+        "name": "Heap",
+        "urls": [
+            "heapanalytics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/300/"
+    },
+    {
+        "name": "HelpShift",
+        "urls": [
+            "helpshift.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/58/"
+    },
+    {
+        "name": "Heyzap (bought by Fyber)",
+        "urls": [
+            "ads.heyzap.com",
+            "fyc.heyzap.com",
+            "img-cloudflare-2.haizap.com",
+            "img-cloudflare.haizap.com",
+            "med.heyzap.com",
+            "x.heyzap.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/147/"
+    },
+    {
+        "name": "HockeyApp",
+        "urls": [
+            "hockeyapp.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/26/"
+    },
+    {
+        "name": "Houndify",
+        "urls": [
+            "houndify.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/209/"
+    },
+    {
+        "name": "Huawei Mobile Services (HMS) Core",
+        "urls": [
+            "hicloud.com",
+            "dbankcloud.ru",
+            "dbankcloud.cn",
+            "dbankcloud.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/333/"
+    },
+    {
+        "name": "HyperTrack",
+        "urls": [
+            "trck.at",
+            "hypertrack.amazonaws.com",
+            "api.hypertrack.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/77/"
+    },
+    {
+        "name": "HyprMX",
+        "urls": [
+            "hyprmx.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/189/"
+    },
+    {
+        "name": "IBM Digital Analytics",
+        "urls": [
+            "data.de.coremetrics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/362/"
+    },
+    {
+        "name": "IBM Mobile Marketing (Acoustic)",
+        "urls": [
+            "sdk6.ibm.xtify.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/420/"
+    },
+    {
+        "name": "INFOnline",
+        "urls": [
+            "de.ioam.de"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/197/"
+    },
+    {
+        "name": "IPQualityScore",
+        "urls": [
+            "ipqualityscore.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/351/"
+    },
+    {
+        "name": "In Loco",
+        "urls": [
+            "inlocomedia.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/231/"
+    },
+    {
+        "name": "InMarket",
+        "urls": [
+            "m2m-api.inmarket.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/180/"
+    },
+    {
+        "name": "Inmobi",
+        "urls": [
+            "c.w.inmobi.com",
+            "china.inmobi.com",
+            "config-ltvp.inmobi.com",
+            "config.inmobi.com",
+            "et.w.inmobi.com",
+            "i.l.inmobicdn.net",
+            "i.w.inmobi.com",
+            "inmobi.cn",
+            "inmobi.com",
+            "inmobi.info",
+            "inmobi.net",
+            "inmobi.us",
+            "inmobicdn.com",
+            "inmobicdn.net",
+            "inmobisdk-a.akamaihd.net",
+            "japan.inmobi.com",
+            "r.w.inmobi.com",
+            "sdkm.w.inmobi.com",
+            "sdktm.w.inmobi.com",
+            "w.inmobi.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/106/"
+    },
+    {
+        "name": "Inrix",
+        "urls": [
+            "inrix.com",
+            "inrix.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/85/"
+    },
+    {
+        "name": "Instreamatic (Adman)",
+        "urls": [
+            "instreamatic.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/204/"
+    },
+    {
+        "name": "Integral Ad Science",
+        "urls": [
+            "adsafeprotected.com",
+            "iasds01.com",
+            "integralads.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/218/"
+    },
+    {
+        "name": "JW Player",
+        "urls": [
+            "g.jwpsrv.com",
+            "jwpltx.com",
+            "p.jwpcdn.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/8/"
+    },
+    {
+        "name": "Jumio",
+        "urls": [
+            "mobile-sdk-resources.jumio.com",
+            "nv-sdk.jumio.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/344/"
+    },
+    {
+        "name": "Keen",
+        "urls": [
+            "api.keen.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/262/"
+    },
+    {
+        "name": "Kiip",
+        "urls": [
+            "kiip.me"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/214/"
+    },
+    {
+        "name": "Kochava",
+        "urls": [
+            "control.kochava.com",
+            "kvinit-prod.api.kochava.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/127/"
+    },
+    {
+        "name": "Kontakt",
+        "urls": [
+            "kontakt.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/59/"
+    },
+    {
+        "name": "LeanPlum",
+        "urls": [
+            "leanplum.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/28/"
+    },
+    {
+        "name": "Ligatus",
+        "urls": [
+            "ligatus.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/13/"
+    },
+    {
+        "name": "Lisnr",
+        "urls": [
+            "lisnr.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/79/"
+    },
+    {
+        "name": "Localytics",
+        "urls": [
+            "analytics.localytics.com",
+            "manifest.localytics.com",
+            "profile.localytics.com",
+            "sdk-assets.localytics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/16/"
+    },
+    {
+        "name": "Locuslabs",
+        "urls": [
+            "locuslabs.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/60/"
+    },
+    {
+        "name": "Loggly",
+        "urls": [
+            "loggly.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/9/"
+    },
+    {
+        "name": "Lotame",
+        "urls": [
+            "ad.crwdcntrl.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/265/"
+    },
+    {
+        "name": "MDOTM",
+        "urls": [
+            "ads.mdotm.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/302/"
+    },
+    {
+        "name": "Mapbox",
+        "urls": [
+            "a.tiles.mapbox.com",
+            "api.tiles.mapbox.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/171/"
+    },
+    {
+        "name": "Marketo (an Adobe Company)",
+        "urls": [
+            "marketo.com",
+            "marketo.net",
+            "mktoedge.com",
+            "mktossl.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/430/"
+    },
+    {
+        "name": "Matomo (Piwik)",
+        "urls": [
+            "matomo.org"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/138/"
+    },
+    {
+        "name": "Millennial Media",
+        "urls": [
+            "adtech.de",
+            "contextual.media.net",
+            "media.net",
+            "millennialmedia.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/107/"
+    },
+    {
+        "name": "Mintegral",
+        "urls": [
+            "analytics.rayjump.com",
+            "cdn-adn.rayjump.com",
+            "de01.rayjump.com",
+            "de.rayjump.com",
+            "detect.rayjump.com",
+            "fk-mtrack.rayjump.com",
+            "hybird.rayjump.com",
+            "jssdk.rayjump.com",
+            "net.rayjump.com",
+            "online.rayjump.com",
+            "rayjump.com",
+            "setting.rayjump.com",
+            "sg-mtrack.rayjump.com",
+            "sg01.rayjump.com",
+            "sg.rayjump.com",
+            "tknet.rayjump.com",
+            "us01.rayjump.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/200/"
+    },
+    {
+        "name": "MixPanel",
+        "urls": [
+            "api.mixpanel.com",
+            "decide.mixpanel.com",
+            "mixpanel.com",
+            "switchboard.mixpanel.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/118/"
+    },
+    {
+        "name": "MoEngage",
+        "urls": [
+            "apiv2.moengage.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/268/"
+    },
+    {
+        "name": "Moat",
+        "urls": [
+            "apx.moatads.com",
+            "geo.moatads.com",
+            "js.moatads.com",
+            "mb.moatads.com",
+            "moat.com",
+            "pixel.moatads.com",
+            "px.moatads.com",
+            "sejs.moatads.com",
+            "yt.moatads.com",
+            "yts.moatads.com",
+            "z.moatads.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/61/"
+    },
+    {
+        "name": "MobPower",
+        "urls": [
+            "api.mobpowertech.com",
+            "log.mobpowertech.com",
+            "mobpowertech.com",
+            "scheme.mobpowertech.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/215/"
+    },
+    {
+        "name": "Mobile Engagement",
+        "urls": [
+            "login.microsoftonline.com",
+            "management.azure.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/63/"
+    },
+    {
+        "name": "Mobvista",
+        "urls": [
+            "mobvista.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/159/"
+    },
+    {
+        "name": "Moodmedia",
+        "urls": [
+            "moodpresence.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/208/"
+    },
+    {
+        "name": "NativeX",
+        "urls": [
+            "mobvista.com",
+            "nativex.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/74/"
+    },
+    {
+        "name": "New Relic",
+        "urls": [
+            "nr-data.net",
+            "newrelic.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/130/"
+    },
+    {
+        "name": "Nexage",
+        "urls": [
+            "nexage.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/33/"
+    },
+    {
+        "name": "Ogury Presage",
+        "urls": [
+            "presage.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/34/"
+    },
+    {
+        "name": "Omniture",
+        "urls": [
+            "omniture.com",
+            "omtrdc.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/43/"
+    },
+    {
+        "name": "OneSignal",
+        "urls": [
+            "onesignal.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/193/"
+    },
+    {
+        "name": "Ooyala",
+        "urls": [
+            "ooyala.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/213/"
+    },
+    {
+        "name": "OpenLocate",
+        "urls": [
+            "api.safegraph.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/44/"
+    },
+    {
+        "name": "OpenX",
+        "urls": [
+            "openx.com",
+            "openx.net",
+            "openx.org",
+            "us-ads.openx.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/210/"
+    },
+    {
+        "name": "Optimizely",
+        "urls": [
+            "optimizely.com",
+            "optimizelyapis.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/172/"
+    },
+    {
+        "name": "OtherLevels",
+        "urls": [
+            "api.otherlevels.com",
+            "geodata.otherlevels.com",
+            "mdn.otherlevels.com",
+            "rich.otherlevels.com",
+            "tags.otherlevels.com",
+            "ws.otherlevels.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/182/"
+    },
+    {
+        "name": "OutBrain",
+        "urls": [
+            "outbrain.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/11/"
+    },
+    {
+        "name": "OzTAM",
+        "urls": [
+            "deliver.oztam.com.au"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/316/"
+    },
+    {
+        "name": "Persona.ly",
+        "urls": [
+            "dev-api.persona.ly",
+            "dev.dsp.persona.ly",
+            "dev.persona.ly",
+            "dsp.persona.ly",
+            "persona.ly",
+            "rtb.persona.ly",
+            "sdk.persona.ly"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/166/"
+    },
+    {
+        "name": "Pilgrim by Foursquare",
+        "urls": [
+            "sdk.foursquare.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/181/"
+    },
+    {
+        "name": "PingStart",
+        "urls": [
+            "api.pingstart.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/261/"
+    },
+    {
+        "name": "PredicIO",
+        "urls": [
+            "sdk.predic.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/357/"
+    },
+    {
+        "name": "PubMatic",
+        "urls": [
+            "ads.pubmatic.com",
+            "aktrack.pubmatic.com",
+            "gads.pubmatic.com",
+            "image2.pubmatic.com",
+            "simage2.pubmatic.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/236/"
+    },
+    {
+        "name": "PubNative",
+        "urls": [
+            "pubnative.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/183/"
+    },
+    {
+        "name": "PushSpring",
+        "urls": [
+            "api.pushspring.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/286/"
+    },
+    {
+        "name": "Pushwoosh",
+        "urls": [
+            "pushwoosh.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/39/"
+    },
+    {
+        "name": "Pyze",
+        "urls": [
+            "pyze.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/287/"
+    },
+    {
+        "name": "Qualtrics",
+        "urls": [
+            "qualtrics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/306/"
+    },
+    {
+        "name": "Quantcast",
+        "urls": [
+            "quantcast.com",
+            "quantcast.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/133/"
+    },
+    {
+        "name": "Radius Networks",
+        "urls": [
+            "proximitykit.radiusnetworks.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/94/"
+    },
+    {
+        "name": "Roximity",
+        "urls": [
+            "app.roximity.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/289/"
+    },
+    {
+        "name": "Rubicon Project",
+        "urls": [
+            "ads.rubiconproject.com",
+            "fastlane.rubiconproject.com",
+            "optimized-by.rubiconproject.com",
+            "pixel.rubiconproject.com",
+            "stats.aws.rubiconproject.com",
+            "tap2-cdn.rubiconproject.com",
+            "video-ads.rubiconproject.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/145/"
+    },
+    {
+        "name": "S4M",
+        "urls": [
+            "s4m.io",
+            "sam4m.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/20/"
+    },
+    {
+        "name": "SAP CDC (Gigya)",
+        "urls": [
+            "cdn1.gigya.com",
+            "cdn2.gigya.com",
+            "cdn3.gigya.com",
+            "cdn.gigya.com",
+            "cdns.us1.gigya.com",
+            "david.gigya-cs.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/148/"
+    },
+    {
+        "name": "Salesforce Marketing Cloud",
+        "urls": [
+            "com.salesforce.marketingcloud"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/220/"
+    },
+    {
+        "name": "Scandit",
+        "urls": [
+            "scandit.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/84/"
+    },
+    {
+        "name": "Schibsted",
+        "urls": [
+            "schibsted.com",
+            "schibsted.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/30/"
+    },
+    {
+        "name": "Segment",
+        "urls": [
+            "api.segment.io",
+            "segment.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/62/"
+    },
+    {
+        "name": "Sense360",
+        "urls": [
+            "android-quinoa-config-prod.sense360eng.com",
+            "incoming-data-sense360.s3.amazonaws.com",
+            "quinoa-personal-identify-prod.sense360eng.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/144/"
+    },
+    {
+        "name": "Sentiance",
+        "urls": [
+            "api.sentiance.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/290/"
+    },
+    {
+        "name": "Shopkick",
+        "urls": [
+            "shopkick.com",
+            "shopkick.de",
+            "sdk.shopkick.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/81/"
+    },
+    {
+        "name": "Signal360",
+        "urls": [
+            "signal360.com",
+            "sonicnotify.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/86/"
+    },
+    {
+        "name": "SilverPush",
+        "urls": [
+            "silverpush.co",
+            "silverpush.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/80/"
+    },
+    {
+        "name": "Singlespot",
+        "urls": [
+            "singlespot.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/142/"
+    },
+    {
+        "name": "Sizmek",
+        "urls": [
+            "serving-sys.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/22/"
+    },
+    {
+        "name": "Smaato",
+        "urls": [
+            "soma.smaato.net",
+            "smaato.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/83/"
+    },
+    {
+        "name": "Smart",
+        "urls": [
+            "adsrvr.org",
+            "akamai.smartadserver.com",
+            "cdn1.smartadserver.com",
+            "diff2.smartadserver.com",
+            "diff3.smartadserver.com",
+            "diff.smartadserver.com",
+            "eqx.smartadserver.com",
+            "gallery.smartadserver.com",
+            "im2.smartadserver.com",
+            "insight.adsrvr.org",
+            "itx5-publicidad.smartadserver.com",
+            "itx5.smartadserver.com",
+            "js.adsrvr.org",
+            "match.adsrvr.org",
+            "preview.smartadserver.com",
+            "rtb-csync.smartadserver.com",
+            "saspreview.com",
+            "smartadserver.com",
+            "smartadserver.ru",
+            "tmk.smartadserver.com",
+            "usw-lax.adsrvr.org"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/7/"
+    },
+    {
+        "name": "SmartLook",
+        "urls": [
+            "smartlook.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/291/"
+    },
+    {
+        "name": "Snowplow",
+        "urls": [
+            "xxx.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/108/"
+    },
+    {
+        "name": "Soomla",
+        "urls": [
+            "soom.la"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/164/"
+    },
+    {
+        "name": "Split",
+        "urls": [
+            "event.split.io",
+            "sdk.split.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/349/"
+    },
+    {
+        "name": "Square Metrics",
+        "urls": [
+            "api.beaconinside.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/292/"
+    },
+    {
+        "name": "Startapp",
+        "urls": [
+            "c2i.startappnetwork.com",
+            "c2s.startappnetwork.com",
+            "click.startappservice.com",
+            "dts.startappservice.com",
+            "events.startappservice.com",
+            "images.startappservice.com",
+            "imp.startappservice.com",
+            "info.static.startappservice.com",
+            "init.startappservice.com",
+            "req.startappservice.com",
+            "soda.startappservice.com",
+            "startappservice.com",
+            "va.origin.startappservice.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/195/"
+    },
+    {
+        "name": "Supersonic Ads",
+        "urls": [
+            "click-haproxy.supersonicads.com",
+            "cx.ssacdn.com",
+            "init.supersonicads.com",
+            "logs.supersonic.com",
+            "outcome.supersonicads.com",
+            "ow-gateway.supersonicads.com",
+            "pixel-tracking.sonic-us.supersonicads.com",
+            "rv-gateway.supersonicads.com",
+            "static.ssacdn.com",
+            "supersonic.com",
+            "supersonicads-a.akamaihd.net",
+            "tag-mediation.supersonic.com",
+            "ua.supersonicads.com",
+            "v.ssacdn.com",
+            "www.supersonicads.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/110/"
+    },
+    {
+        "name": "Swirl",
+        "urls": [
+            "cdn-api.swirl.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/418/"
+    },
+    {
+        "name": "Swrve",
+        "urls": [
+            "api.swrve.com",
+            "content.swrve.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/192/"
+    },
+    {
+        "name": "Sync2Ad",
+        "urls": [
+            "sync2ad.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/24/"
+    },
+    {
+        "name": "Synerise",
+        "urls": [
+            "synerise.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/434/"
+    },
+    {
+        "name": "Taboola",
+        "urls": [
+            "taboola.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/173/"
+    },
+    {
+        "name": "TalkingData",
+        "urls": [
+            "account.talkingdata.com",
+            "av1.xdrig.com",
+            "cloud.xdrig.com",
+            "m.talkingdata.com",
+            "push.xdrig.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/293/"
+    },
+    {
+        "name": "Tamoco",
+        "urls": [
+            "evt.tamoco.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/307/"
+    },
+    {
+        "name": "Tapdaq",
+        "urls": [
+            "ads.tapdaq.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/258/"
+    },
+    {
+        "name": "Tapjoy",
+        "urls": [
+            "tapjoy.com",
+            "tapjoyads.com",
+            "www.5rocks.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/199/"
+    },
+    {
+        "name": "Taplytics",
+        "urls": [
+            "api.taplytics.com",
+            "ping.tapylitics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/211/"
+    },
+    {
+        "name": "Teads",
+        "urls": [
+            "teads.tv"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/230/"
+    },
+    {
+        "name": "Tealium",
+        "urls": [
+            "tealiumiq.com",
+            "tiqcdn.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/32/"
+    },
+    {
+        "name": "Teemo",
+        "urls": [
+            "databerries.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/1/"
+    },
+    {
+        "name": "TeleQuid",
+        "urls": [
+            "mars.telequid.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/87/"
+    },
+    {
+        "name": "Tinder Analytics",
+        "urls": [
+            "etl.tindersparks.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/29/"
+    },
+    {
+        "name": "Tune",
+        "urls": [
+            "mobileapptracking.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/38/"
+    },
+    {
+        "name": "Tutucloud",
+        "urls": [
+            "tusdk.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/440/"
+    },
+    {
+        "name": "Twitter MoPub",
+        "urls": [
+            "mopub.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/35/"
+    },
+    {
+        "name": "UXCam",
+        "urls": [
+            "verify.uxcam.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/253/"
+    },
+    {
+        "name": "Uber Analytics",
+        "urls": [
+            "events.uber.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/78/"
+    },
+    {
+        "name": "Umeng Analytics",
+        "urls": [
+            "alog.umeng.com",
+            "alogs.umeng.com",
+            "ar.umeng.com",
+            "oc.umeng.com",
+            "umeng.com",
+            "uop.umeng.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/119/"
+    },
+    {
+        "name": "Umeng Feedback",
+        "urls": [
+            "alog.umeng.com",
+            "alogs.umeng.com",
+            "ar.umeng.com",
+            "oc.umeng.com",
+            "umeng.com",
+            "uop.umeng.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/120/"
+    },
+    {
+        "name": "Unity3d Ads",
+        "urls": [
+            "adserver.unityads.unity3d.com",
+            "analytics.social.unity.com",
+            "api.uca.cloud.unity3d.com",
+            "auction.unityads.unity3d.com",
+            "cdn-highwinds.unityads.unity3d.com",
+            "cdn.unityads.unity3d.com",
+            "config.uca.cloud.unity3d.com",
+            "config.unityads.unity3d.com",
+            "stats.unity3d.com",
+            "webview.unityads.unity3d.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/121/"
+    },
+    {
+        "name": "Urbanairship",
+        "urls": [
+            "device-api.urbanairship.com",
+            "urbanairship.com",
+            "device-api.asnapieu.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/123/"
+    },
+    {
+        "name": "Vectaury",
+        "urls": [
+            "vectaury.io"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/37/"
+    },
+    {
+        "name": "Vungle",
+        "urls": [
+            "ads.api.vungle.com",
+            "akamai.vungle-cdn.vungle.com",
+            "api.vungle.akadns.net",
+            "api.vungle.com",
+            "bd.vungle.com",
+            "billboard.vungle.com",
+            "cdn-lb.vungle.com",
+            "ci.vungle.com",
+            "data.vungle.com",
+            "ingest.vungle.com",
+            "jaeger.vungle.com",
+            "ltv-data-api.kube-prod.vungle.com",
+            "monitoring.vungle.com",
+            "ssl.vungle.com",
+            "v.vungle.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/169/"
+    },
+    {
+        "name": "WeChat Location",
+        "urls": [
+            "map.qq.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/76/"
+    },
+    {
+        "name": "Weborama",
+        "urls": [
+            "weborama.fr",
+            "weborama.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/6/"
+    },
+    {
+        "name": "Webtrends",
+        "urls": [
+            "dc.webtrends.com",
+            "webtrends.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/129/"
+    },
+    {
+        "name": "Widespace",
+        "urls": [
+            "widespace.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/14/"
+    },
+    {
+        "name": "Wootric",
+        "urls": [
+            "wootric.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/234/"
+    },
+    {
+        "name": "X-Mode",
+        "urls": [
+            "api.myendpoint.io",
+            "bin5y4muil.execute-api.us-east-1.amazonaws.com",
+            "api.smartechmetrics.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/354/"
+    },
+    {
+        "name": "YOC VIS.X",
+        "urls": [
+            "yoc-performance.com",
+            "yoc.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/364/"
+    },
+    {
+        "name": "Yandex Ad",
+        "urls": [
+            "analytics.mobile.yandex.net",
+            "appmetrica.yandex.com",
+            "banners-slb.mobile.yandex.net",
+            "banners.mobile.yandex.net",
+            "mc.yandex.ru",
+            "report.appmetrica.yandex.net",
+            "startup.mobile.yandex.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/124/"
+    },
+    {
+        "name": "Yinzcam Sobek",
+        "urls": [
+            "analytics.yinzcam.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/212/"
+    },
+    {
+        "name": "deltaDNA",
+        "urls": [
+            "deltadna.net"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/187/"
+    },
+    {
+        "name": "mParticle",
+        "urls": [
+            "mparticle.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/18/"
+    },
+    {
+        "name": "myTracker",
+        "urls": [
+            "tracker-api.my.com"
+        ],
+        "exodus_link": "https://reports.exodus-privacy.eu.org/en/trackers/175/"
+    }
+]
